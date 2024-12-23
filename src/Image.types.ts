@@ -6,3 +6,7 @@ export type Image = {
   };
   alt_description: string | null;
 }
+
+export type ImageCardProps = {
+  image: Image;
+}

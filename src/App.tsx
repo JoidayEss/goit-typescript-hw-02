@@ -7,7 +7,7 @@ import Loader from "./Loader/Loader.js";
 import ErrorMessage from "./ErrorMessage/ErrorMessage.js";
 import LoadMoreBtn from "./LoadMoreBtn/LoadMoreBtn.tsx";
 import ImageModal from "./ImageModal/ImageModal.js";
-import { Image } from "./assets/Image.types.js"
+import { Image } from "./Image.types.ts"
 import {AppError} from "./App.js"
 
 const ACCES_KEY = "_Eo7wDjneR8d06fqIhWY7qqP86Y1JQ478WdRWeqybdI";

@@ -1,9 +1,4 @@
-export type Image = {
-  urls: {
-    regular: string; 
-  };
-  alt_description: string | null;
-}
+import {Image} from "../Image.types"
 
 export type ImageModalProps = {
   image: Image | null; 

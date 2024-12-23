@@ -1,5 +1,5 @@
 import s from "./ImageCard.module.css";
-import { ImageCardProps } from "./ImageCard.types";
+import { ImageCardProps } from "../Image.types";
 
 const ImageCard: React.FC<ImageCardProps> = ({ image }) => (
   <div>
