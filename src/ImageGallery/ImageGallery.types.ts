@@ -1,4 +1,4 @@
-import {Image} from "../assets/Image.types"
+import {Image} from "../Image.types"
 
 export type ImageGalleryProps = {
   images: Image[]; 
